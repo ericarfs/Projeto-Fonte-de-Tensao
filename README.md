@@ -19,13 +19,13 @@
 
 |       Nome       |     Especificação   | Preço |
 |------------------|:-------------------:|------:|
-|Ponte Retificadora|  left-aligned       | $1600 |
-| Capacitor        |    centered         |   $12 |
-| Diodo Zener      | right-aligned       |    $1 |
-| Potenciômetro    |                     |       |
-| Transistor       |                     |       |
-| Resistor         |                     |       |
-| Resistor         |                     |       |
+|Ponte Retificadora|  left-aligned       | R$ |
+| Capacitor Eletrolítico       |   680uF x 50V       | [R$ 2,50](https://www.eletro-parts.com/produto_detalhes/p/TmpRME1BPT0=/Eletrolitico/133-+Eletrolitico+680uF+x+50V) |
+| Diodo Zener      |    13V / 1W         | [R$ 0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|
+| Potenciômetro Linear   |          5K (5000Ω)           | [R$ 1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
+| Transistor       |                     | R$ |
+| Resistor         |                     | R$ |
+| Resistor         |                     | R$ |
 
 
 
