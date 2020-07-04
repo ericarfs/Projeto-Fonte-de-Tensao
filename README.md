@@ -19,7 +19,7 @@
 
 |       Nome       |     Especificação   | Preço |
 |------------------|:-------------------:|------:|
-|Ponte Retificadora|     10A/1000V  | [R$ R$ 3,70](https://www.baudaeletronica.com.br/ponte-retificadora-kbu1010.html)|
+|Ponte Retificadora|     10A/1000V  | [R$ 3,70](https://www.baudaeletronica.com.br/ponte-retificadora-kbu1010.html)|
 | Capacitor Eletrolítico       |   680uF x 50V       | [R$ 2,50](https://www.eletro-parts.com/produto_detalhes/p/TmpRME1BPT0=/Eletrolitico/133-+Eletrolitico+680uF+x+50V) |
 | Diodo Zener      |    13V / 1W         | [R$ 0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|
 | Potenciômetro Linear   |          5K (5000Ω)           | [R$ 1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
