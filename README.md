@@ -25,7 +25,7 @@
 | Potenciômetro Linear   |          5K (5000Ω)           | [R$ 1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
 | Transistor NPN      |         200mA            | [R$ 0,17](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html) |
 | Resistor         |      3K0 5% (1/2W)               | [R$ 0,14](https://www.baudaeletronica.com.br/resistor-3k0-1-2w.html)|
-| Resistor         |         2K 5% (1/4W)            | [R$ 0,008](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
+| Resistor         |         2K 5% (1/4W)            | [R$ 0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
 
 
 
