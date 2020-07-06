@@ -15,7 +15,7 @@
 ![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/FalstadCircuito.png?raw=true "Diagrama da Fonte com os valores dos componentes")
 
 [Link para o circuito no Falstad](http://tinyurl.com/ybtpo8dz)
-### Componentes
+## Componentes
 
 |       Nome       |     Especificação   | Preço |
 |------------------|:-------------------:|------:|
@@ -27,5 +27,9 @@
 | Resistor         |      3K0 5% (1/2W)               | [R$ 0,14](https://www.baudaeletronica.com.br/resistor-3k0-1-2w.html)|
 | Resistor         |         2K 5% (1/4W)            | [R$ 0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
 
+## Esquemático
+![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/EsquematicoFonte.png?raw=true "Projeto Esquemático da Fonte")
 
+## PCB
+![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/PCBFonte.png?raw=true "PCB da Fonte")
 
