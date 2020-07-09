@@ -27,8 +27,8 @@
 | 2 x Resistor         |         2K 5% (1/4W)            | [R$ 0,16](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
 
 ## Esquemático
-![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/EsquematicoFonte.png?raw=true "Projeto Esquemático da Fonte")
+
 
 ## PCB
-![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/PCBFonte.png?raw=true "PCB da Fonte")
+
 
