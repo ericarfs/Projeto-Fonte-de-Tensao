@@ -12,7 +12,7 @@
 * __Docente__: Eduardo do Valle Simões
 
 ## Circuito
-![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/FalstadCircuito.png?raw=true "Diagrama da Fonte com os valores dos componentes")
+![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/FalstadCircuito.png?raw=true  "Diagrama da Fonte com os valores dos componentes")
 
 [Link para o circuito no Falstad](http://tinyurl.com/y6wst9ny)
 ## Componentes
