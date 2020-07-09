@@ -20,12 +20,11 @@
 |       Nome       |     Especificação   | Preço |
 |------------------|:-------------------:|------:|
 |Ponte Retificadora|     10A/1000V  | [R$ 3,70](https://www.baudaeletronica.com.br/ponte-retificadora-kbu1010.html)|
-| Capacitor Eletrolítico       |   680uF x 50V       | [R$ 2,50](https://www.eletro-parts.com/produto_detalhes/p/TmpRME1BPT0=/Eletrolitico/133-+Eletrolitico+680uF+x+50V) |
+| Capacitor Eletrolítico       |   470uF x 50V       | [R$ 1,00](https://www.eletro-parts.com/produto_detalhes/p/T0RJeU53PT0=/Eletrolitico/125-+Eletrolitico+470uF+x+50V) |
 | Diodo Zener      |    13V / 1W         | [R$ 0,20](https://www.baudaeletronica.com.br/diodo-zener-1n4743-13v-1w.html)|
 | Potenciômetro Linear   |          5K (5000Ω)           | [R$ 1,09](https://www.baudaeletronica.com.br/potenciometro-linear-de-5k-5000.html) |
-| Transistor NPN      |         200mA            | [R$ 0,17](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html) |
-| Resistor         |      3K0 5% (1/2W)               | [R$ 0,14](https://www.baudaeletronica.com.br/resistor-3k0-1-2w.html)|
-| Resistor         |         2K 5% (1/4W)            | [R$ 0,08](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
+| Transistor NPN      |         200mA            | [R$ 0,17](https://www.baudaeletronica.com.br/transistor-npn-2n3904.html) 
+| 2 x Resistor         |         2K 5% (1/4W)            | [R$ 0,16](https://www.baudaeletronica.com.br/resistor-2k-5-1-4w.html)|
 
 ## Esquemático
 ![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/EsquematicoFonte.png?raw=true "Projeto Esquemático da Fonte")
