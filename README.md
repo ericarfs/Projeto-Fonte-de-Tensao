@@ -15,6 +15,8 @@
 ![Alt text](https://github.com/ericarfs/Projeto-Fonte-de-Tensao/blob/master/FalstadCircuitoPrint.png?raw=true  "Diagrama da Fonte com os valores dos componentes")
 
 [Link para o circuito no Falstad](http://tinyurl.com/y6wst9ny)
+
+[Link para o video com a explicação do circuito](https://youtu.be/i8kKOByka4g)
 ## Componentes
 
 |       Nome       |     Especificação   | Preço |
